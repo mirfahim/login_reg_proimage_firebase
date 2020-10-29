@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890046987957",
+    "firebase_url": "https://e-commerce-56ad5.firebaseio.com",
+    "project_id": "e-commerce-56ad5",
+    "storage_bucket": "e-commerce-56ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890046987957:android:92809cd08006186a5308fc",
+        "android_client_info": {
+          "package_name": "com.muhammadali.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890046987957-vl9bqejn1b9o210lploasg17vb6epvou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpyezdIjds1j-i7PznJd46DpXFK33zmBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890046987957-vl9bqejn1b9o210lploasg17vb6epvou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
